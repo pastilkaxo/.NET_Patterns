@@ -1,0 +1,15 @@
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\PP2.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\PP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\PP2.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\PP2.AssemblyInfo.cs
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\PP2.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\PP2\PP2\bin\Debug\net6.0\PP2.exe
+C:\Users\Влад\source\repos\PP2\PP2\bin\Debug\net6.0\PP2.deps.json
+C:\Users\Влад\source\repos\PP2\PP2\bin\Debug\net6.0\PP2.runtimeconfig.json
+C:\Users\Влад\source\repos\PP2\PP2\bin\Debug\net6.0\PP2.dll
+C:\Users\Влад\source\repos\PP2\PP2\bin\Debug\net6.0\PP2.pdb
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\PP2.dll
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\refint\PP2.dll
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\PP2.pdb
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\PP2.genruntimeconfig.cache
+C:\Users\Влад\source\repos\PP2\PP2\obj\Debug\net6.0\ref\PP2.dll

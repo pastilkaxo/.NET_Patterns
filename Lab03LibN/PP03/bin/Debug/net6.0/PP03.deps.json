@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PP03/1.0.0": {
+        "dependencies": {
+          "Lab03LibN": "1.0.0"
+        },
+        "runtime": {
+          "PP03.dll": {}
+        }
+      },
+      "Lab03LibN/1.0.0": {
+        "runtime": {
+          "Lab03LibN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PP03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab03LibN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
