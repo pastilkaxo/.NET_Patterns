@@ -1,0 +1,6 @@
+C:\Users\Влад\source\repos\Lec04LibN\Lec04LibN\bin\Debug\Lec04LibN.dll
+C:\Users\Влад\source\repos\Lec04LibN\Lec04LibN\bin\Debug\Lec04LibN.pdb
+C:\Users\Влад\source\repos\Lec04LibN\Lec04LibN\obj\Debug\Lec04LibN.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\Lec04LibN\Lec04LibN\obj\Debug\Lec04LibN.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Lec04LibN\Lec04LibN\obj\Debug\Lec04LibN.dll
+C:\Users\Влад\source\repos\Lec04LibN\Lec04LibN\obj\Debug\Lec04LibN.pdb
