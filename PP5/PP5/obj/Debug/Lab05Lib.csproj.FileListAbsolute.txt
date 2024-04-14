@@ -1,0 +1,6 @@
+C:\Users\Влад\source\repos\PP5\PP5\bin\Debug\PP5.dll
+C:\Users\Влад\source\repos\PP5\PP5\bin\Debug\PP5.pdb
+C:\Users\Влад\source\repos\PP5\PP5\obj\Debug\Lab05Lib.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\PP5\PP5\obj\Debug\Lab05Lib.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\PP5\PP5\obj\Debug\PP5.dll
+C:\Users\Влад\source\repos\PP5\PP5\obj\Debug\PP5.pdb
